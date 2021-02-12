@@ -23,7 +23,7 @@ After routing is done, the lef is extracted by using the command below:-
 magic -T sky130A.tech lef read merged.lef def read &
 lef write raven_spi.lef
 
-[[images/spi.png]]
+[[Images/raven_spi.png]]
 
 
 #LVLSHIFTER
